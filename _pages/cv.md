@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics, Universidad Diego Portales, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Research Assistant
+  * Universidad Diego Portales
+  * Supervisor: Brian Tavares
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Intern, Sell-side Equity Analyst
+  * Scotia Corredora de Bolsa, Scotiabank Global Banking and Markets
+  
+* August 2018 - July 2020: Teacher Asistant
+  * Universidad Diego Portales
+  * Courses: Principles of Macroeconomics (PM, 4 times) and Finance I (F1, 3 times)
+  * Supervisor: R. Bergoeing (PM), C. Pérez (F1), B. Tavares (PM)
   
 Skills
 ======
