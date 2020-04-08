@@ -1,12 +1,10 @@
 ---
-title: 'Recomendations'
+layout: archive
+title: "Others"
 permalink: /others/
 author_profile: false
-tags:
-  - books
-  - papers
-  - links
 ---
+
 
 Books
 ======
