@@ -8,13 +8,12 @@ venue: "Universidad Diego Portales, Departmento de Economía"
 location: "Santiago, Chile"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Material de la Ayudantía del ramo Principios de Macroeconomía, Otoño 2020.
 
-Heading 1
-======
+## Ayudantía 1
 
-Heading 2
-======
+## Ayudantía 2
 
-Heading 3
-======
+## Ayudantía 3
+
+## Ayudantía 4
