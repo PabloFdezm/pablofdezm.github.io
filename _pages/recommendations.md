@@ -8,21 +8,21 @@ I will be posting a series of books, papers, blogs etc... that I liked a lot, it
 
 ## People (economists, mostly)
 
-Juan Ramón Rallo (@juanrallo), [his youtube channel](youtube.com/JuanRallo) - One of my favorite economist
+Juan Ramón Rallo [@juanrallo](https://twitter.com/juanrallo), [his youtube channel](youtube.com/JuanRallo) - One of my favorite economist
 
-Artir (@ArtirKel), [nintil.com](https://nintil.com/) - My favote blogger/twitter.
+Artir [@ArtirKel](https://twitter.com/ArtirKel), [his blog](https://nintil.com/) - My favorite blogger/twitter.
 
-Peter G. Klein (@petergklein), [his page](https://sites.baylor.edu/peter_klein/)
+Peter G. Klein [@petergklein](https://twitter.com/petergklein), [his page](https://sites.baylor.edu/peter_klein/)
 
-Bryan Caplan (@bryan_caplan), [his page](http://www.bcaplan.com/)
+Jesús Huerta de Soto, [his page](https://www.jesushuertadesoto.com/home/) - One of the best austrian economist
 
-Per Bylund (@PerBylund), [his page](PerBylund.com)
+Bryan Caplan [@bryan_caplan](https://twitter.com/bryan_caplan), [his page](http://www.bcaplan.com/) - One of the non-autrian GMU Economist, author of amazing books.
 
-Cameron Harwick (@C_Harwick), [his page](cameronharwick.com)
+Vitalik Buterin [@VitalikButerin](https://twitter.com/VitalikButerin), [his "about me" page](https://about.me/vitalik_buterin) - Co-founder of Ethereum
 
-Vitalik Buterin (@VitalikButerin), [his "about me" page](https://about.me/vitalik_buterin) - Co-founder of Ethereum
+George Selgin [@George Selgin](https://twitter.com/GeorgeSelgin), [his Cato Institute profile](https://www.cato.org/people/george-selgin) - Great work on free banking
 
-Jesús Huerta de Soto, [his page](https://www.jesushuertadesoto.com/home/)
+Josh Hendrickson [@RebelEconProf](https://twitter.com/RebelEconProf), [his page](joshuahendrickson.com)
 
 ## Books
 
