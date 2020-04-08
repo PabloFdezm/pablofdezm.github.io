@@ -8,7 +8,7 @@ venue: "Universidad Diego Portales, Departmento de Economía"
 location: "Santiago, Chile"
 ---
 
-Material de la Ayudantía del ramo Principios de Macroeconomía, Otoño 2020.
+Material de la Ayudantía del ramo Principios de Macroeconomía.
 
 ## Ayudantía 1
 
