@@ -27,8 +27,6 @@ Los ejercicios en [este link](https://pablofdezm.github.io/files/PM_Ejercicios1.
 
 Las soluciones [acá](https://pablofdezm.github.io/files/PM_Soluciones1.pdf)
 
-Lectura recomendada en [este link]()
-
 
 # Ayudantía 2
 
@@ -38,13 +36,13 @@ Los ejercicios en [este link](https://pablofdezm.github.io/files/PM_Ejercicios2.
 
 Las soluciones [acá](https://pablofdezm.github.io/files/PM_Soluciones2.pdf)
 
-Lectura recomendada en [este link]()
 
 # Ayudantía 3
 
 Puedes encontrar la ayudantía [acá](https://pablofdezm.github.io/files/PM_Ayudantia3.pdf)
 
-No hicimos ejercicios esa ayudantía.
+No hicimos ejercicios en esta ayudantía.
+
 
 # Ayudantía 4
 
@@ -52,4 +50,7 @@ Los ejercicios en [este link](https://pablofdezm.github.io/files/PM_Ejercicios4.
 
 Las soluciones [acá](https://pablofdezm.github.io/files/PM_Soluciones4.pdf)
 
+Puedes revisar la ayudatía*: [Bloque 1](https://drive.google.com/file/d/14z_iFsKA_OAznYE04B76aM1OdVKjiwYf/view) y el [Bloque 2](https://drive.google.com/file/d/1SXbDSmb9tjQeUZACPjwhBp9-lpyWJo6B/view)
+
+*La grabación parte 10 mins más tarde
 
