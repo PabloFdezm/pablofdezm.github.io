@@ -36,7 +36,7 @@ Skills
 Teaching
 ======
 
-This semester (fall 2020) i will be TA of:
+This semester (fall 2020) i will be TA of (in spanish):
 
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
