@@ -3,18 +3,23 @@ title: 'Recommendations'
 date: 2020-04-7
 permalink: recommendations
 tags:
-  - cool posts
-  - category1
-  - category2
+  - books
+  - links
+  - papers
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
-Headings are cool
+Books
 ======
 
-You can have many headings
+
+
+
+
+Papers
 ======
 
-Aren't headings cool?
-------
+
+
+
+Links and blogs
+======
