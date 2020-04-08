@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : 
   location         : "Chile"
-  employer         :
+  employer         : "UDP"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "pablo.fernandezmo@mail.udp.cl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "linkedin.com/pablofdezm1"
   orcid            : 
   pinterest        :
   soundcloud       :
