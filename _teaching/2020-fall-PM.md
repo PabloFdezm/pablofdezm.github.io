@@ -4,16 +4,52 @@ collection: teaching
 type: "Undergraduate course"
 author_profile: false
 permalink: /teaching/2020-fall-PM
+date: 2020-03-01
 venue: "Universidad Diego Portales, Departmento de Economía"
 location: "Santiago, Chile"
 ---
 
-Material de la Ayudantía del ramo Principios de Macroeconomía.
+Material de la ayudantía del ramo Principios de Macroeconomía.
 
-## Ayudantía 1
+# Descripción del curso
 
-## Ayudantía 2
+La macroeconomía estudia la evolución y determinantes del ingreso en el corto plazo (ciclo económico) y largo plazo (desarrollo económico). Algunas de las preguntas que intenta responder son: ¿Qué determina la tasa de crecimiento de una economía? ¿Por qué algunos países son más ricos que otros? ¿Por qué existen los ciclos económicos? ¿Qué rol pueden desempeñar las autoridades económicas (ministerios de Hacienda y de Economía, Banco Central) como planificadores sociales? En este curso, los objetivosprincipalessondos: primero, presentar los conceptos agregados básicos, como la producción total de la economía y las tasas de desempleo y de inflación. 
 
-## Ayudantía 3
+Segundo,analizar las herramientas teóricas necesarias para aproximar respuestas a preguntas relacionadas con los determinantes del producto, empleoy preciosen el corto y mediano plazo; el comportamiento devariablesagregadas durante recesiones o expansiones; y el impacto y funcionamiento delas políticasfiscal y monetaria. Se motivará la teoría con la discusión de aplicaciones concretas, tanto para la economía chilena como internacional. 
 
-## Ayudantía 4
+Puedes encontrar el programa del curso [acá](https://pablofdezm.github.io/files/F1_Programa.pdf)
+
+# Ayudantía 1
+
+Puedes encontrar la ayudantía [acá](https://pablofdezm.github.io/files/PM_Ayudantia1.pdf)
+
+Los ejercicios en [este link](https://pablofdezm.github.io/files/PM_Ejercicios1.pdf)
+
+Las soluciones [acá](https://pablofdezm.github.io/files/PM_Soluciones1.pdf)
+
+Lectura recomendada en [este link]()
+
+
+# Ayudantía 2
+
+Puedes encontrar la ayudantía [acá](https://pablofdezm.github.io/files/PM_Ayudantia2.pdf)
+
+Los ejercicios en [este link](https://pablofdezm.github.io/files/PM_Ejercicios2.pdf)
+
+Las soluciones [acá](https://pablofdezm.github.io/files/PM_Soluciones2.pdf)
+
+Lectura recomendada en [este link]()
+
+# Ayudantía 3
+
+Puedes encontrar la ayudantía [acá](https://pablofdezm.github.io/files/PM_Ayudantia3.pdf)
+
+No hicimos ejercicios esa ayudantía.
+
+# Ayudantía 4
+
+Los ejercicios en [este link](https://pablofdezm.github.io/files/PM_Ejercicios4.pdf)
+
+Las soluciones [acá](https://pablofdezm.github.io/files/PM_Soluciones4.pdf)
+
+
