@@ -2,6 +2,7 @@
 title: "Principios de Macroeconomía"
 collection: teaching
 type: "Undergraduate course"
+author_profile: false
 permalink: /teaching/2020-fall-PM
 venue: "Universidad Diego Portales, Departmento de Economía"
 location: "Santiago, Chile"
