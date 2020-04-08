@@ -4,20 +4,14 @@ title: "Recommendations"
 permalink: /others/
 author_profile: false
 ---
+I will be posting a series of books, papers, blogs etc... that I liked a lot, it does not have any particular order.
 
-I will posting a series of books, papers, blogs etc... 
+## People (economist, mostly)
 
+Artir (@ArtirKel), [nintil.com](https://nintil.com/)
 
-People (economist, mostly)
-======
+## Books
 
-Artir (@ArtirKel), https://nintil.com/
+## Papers
 
-Books
-======
-
-Papers
-======
-
-Links
-======
+## Links
