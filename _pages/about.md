@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome!, I'm student of Economics at UDP (Universidad Diego Portales) in Santiago, Chile. I have experince as Research Asistant (RA) and Teaching Asistant(TA) at UDP and as Summer Intern at an Investment Bank. In this page you can find exercises (in Spanish), my CV and others. 
+Welcome! I'm student of Economics at UDP (Universidad Diego Portales) in Santiago, Chile. I have experience as Research Assistant (RA) and Teaching Assistant (TA) at UDP and as Summer Intern at an Investment Bank. In this page you can find exercises (in Spanish), my CV and others. 
+My interests are Financial Economics, Austrian Economics and Blockchain. I also enjoy reading about Political Theory, the history of western civilization and history of economic thought (boring, right?). 
+Feel free to recommend books and articles!
 
-My interest are Financial Economics, Austrian Economics and Blockchain. I also enjoy reading about Political Theory, the history of western civilization and history of economic thought. 
-
-Feel free to recommend books and articles!. 
