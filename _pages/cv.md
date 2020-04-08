@@ -21,7 +21,7 @@ Work experience
   * Courses: Principles of Macroeconomics (PM, 4 times) and Finance I (F1, 3 times)
   * Supervisor: R. Bergoeing (PM), C. Pérez (F1), B. Tavares (PM)
 
-* Summer 2020: Intern, Sell-side Equity Analyst
+* Summer 2020: Intern, Sell-side Equity Research Analyst
   * Scotia Corredora de Bolsa, Scotiabank Global Banking and Markets
 
 * Summer 2019: Research Assistant
@@ -31,10 +31,13 @@ Work experience
 Skills
 ======
 * Languages: R, Python, Latex
-* Programs: Stata, Mathematica, Excel.
+* Programs: Stata, Mathematica, Excel
  
 Teaching
 ======
+
+This semester (fall 2020) i will be TA of:
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
