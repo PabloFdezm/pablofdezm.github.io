@@ -1,7 +1,7 @@
 ---
 title: 'Recomendations'
 date: 2020-04-07
-permalink: /posts/recommendations/
+permalink: /others/
 tags:
   - books
   - papers
