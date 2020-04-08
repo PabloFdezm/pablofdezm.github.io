@@ -1,10 +1,15 @@
 ---
 layout: archive
-title: "Others"
+title: "Recommendations"
 permalink: /others/
 author_profile: false
 ---
 
+I will posting a series of books, papers, blogs etc... 
+
+
+People (economist, mostly)
+======
 
 Books
 ======
