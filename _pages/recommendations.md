@@ -26,7 +26,7 @@ Josh Hendrickson [@RebelEconProf](https://twitter.com/RebelEconProf), [his page]
 
 ## Links
 
-Mises Institute
+Hoover Institution at Stanford University
 
 Alex Tabarrock and Tyler Cowen Marginal Revolution Blog
 
@@ -42,17 +42,11 @@ Cafe Hayek
 
 Free Market Institute at Texas Tech University 
 
-Hoover Institution at Stanford University
+Mises Institute
 
 ## Books
 
-F.A. Hayek - The road to serfdom (1944)
-
-L. von Mises - Human Action (1949)
-
-M. Rothbard - The Case Against the Fed (1994)
-
-M. Rothbard - What Has Government Done to Our Money? (1963)
+(Under construction...)
 
 ## Papers
 
