@@ -41,9 +41,6 @@ Las soluciones [acá](https://pablofdezm.github.io/files/PM_Soluciones2.pdf)
 
 Puedes encontrar la ayudantía [acá](https://pablofdezm.github.io/files/PM_Ayudantia3.pdf)
 
-No hicimos ejercicios en esta ayudantía.
-
-
 # Ayudantía 4
 
 Los ejercicios en [este link](https://pablofdezm.github.io/files/PM_Ejercicios4.pdf)
