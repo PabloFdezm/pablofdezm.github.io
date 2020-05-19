@@ -55,7 +55,7 @@ Puedes revisar la ayudatía*: [Bloque 1](https://drive.google.com/file/d/14z_iFs
 
 Puedes encontrar la ayudantía [acá](https://pablofdezm.github.io/files/PM_Ayudantia5.pdf)
 
-Puedes revisar la ayudatía*: [Bloque 1](https://drive.google.com/file/d/1WU5KoJoQt4h3BaelZuzr52FnxcxOQzaS/view) y el [Bloque 2](https://drive.google.com/file/d/1lukXTAjp1V01Ga4bkWtWUahDLDviu1O1/view)
+Puedes revisar la ayudatía: [Bloque 1](https://drive.google.com/file/d/1WU5KoJoQt4h3BaelZuzr52FnxcxOQzaS/view) y el [Bloque 2](https://drive.google.com/file/d/1lukXTAjp1V01Ga4bkWtWUahDLDviu1O1/view)
 
 # Ayudantía 6
 
@@ -63,7 +63,7 @@ Los ejercicios en [este link](https://pablofdezm.github.io/files/PM_Ejercicios6.
 
 Las soluciones [acá](https://pablofdezm.github.io/files/PM_Soluciones6.pdf)
 
-Puedes revisar la ayudatía*: [Bloque 1](https://drive.google.com/file/d/1ZQkJK3Pk6L8mKg9TfZppLKMjN6J78ETS/view) y el [Bloque 2](https://drive.google.com/file/d/16_oh4xCDG-a5UNq_T9DL6Cv8eumMI3-6/view)
+Puedes revisar la ayudatía: [Bloque 1](https://drive.google.com/file/d/1ZQkJK3Pk6L8mKg9TfZppLKMjN6J78ETS/view) y el [Bloque 2](https://drive.google.com/file/d/16_oh4xCDG-a5UNq_T9DL6Cv8eumMI3-6/view)
 
 # Ayudantía 7 (Ayudantía de repaso)
 
@@ -71,12 +71,12 @@ Los ejercicios en [este link](https://pablofdezm.github.io/files/PM_Ejercicios7.
 
 Las soluciones [acá](https://pablofdezm.github.io/files/PM_Soluciones7.pdf)
 
-Puedes revisar la ayudatía*: [Bloque 1](https://drive.google.com/file/d/1sX8GnXgi5tZkxxfDRGAMFvMMu_pAT5qN/view) y el [Bloque 2](https://drive.google.com/file/d/1K3Htw59UFuYEQvIzejeoCfIXJfzc5dSb/view)
+Puedes revisar la ayudatía: [Bloque 1](https://drive.google.com/file/d/1sX8GnXgi5tZkxxfDRGAMFvMMu_pAT5qN/view) y el [Bloque 2](https://drive.google.com/file/d/1K3Htw59UFuYEQvIzejeoCfIXJfzc5dSb/view)
 
 # Ayudantía 8
 
 Puedes encontrar la ayudantía [acá](https://pablofdezm.github.io/files/PM_Ayudantia8.pdf)
 
-Puedes revisar la ayudatía*: [Bloque 1](https://drive.google.com/file/d/1seA1wKV_bVN0_jgdAPHvrCm8JLd_z-ve/view) y el [Bloque 2](https://drive.google.com/file/d/1qsGdjPvjwRBaysDAIJOBNZUmwyhabsvj/view)
+Puedes revisar la ayudatía: [Bloque 1](https://drive.google.com/file/d/1seA1wKV_bVN0_jgdAPHvrCm8JLd_z-ve/view) y el [Bloque 2](https://drive.google.com/file/d/1qsGdjPvjwRBaysDAIJOBNZUmwyhabsvj/view)
 
 
