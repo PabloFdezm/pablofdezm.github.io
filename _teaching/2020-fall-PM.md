@@ -79,4 +79,14 @@ Puedes encontrar la ayudantía [acá](https://pablofdezm.github.io/files/PM_Ayud
 
 Puedes revisar la ayudatía: [Bloque 1](https://drive.google.com/file/d/1seA1wKV_bVN0_jgdAPHvrCm8JLd_z-ve/view) y el [Bloque 2](https://drive.google.com/file/d/1qsGdjPvjwRBaysDAIJOBNZUmwyhabsvj/view)
 
+# Ayudantía 9
 
+Puedes encontrar la ayudantía [acá](https://pablofdezm.github.io/files/PM_Ayudantia9.pdf)
+
+Puedes revisar la ayudatía: [Bloque 1](https://drive.google.com/file/d/1usUa_6gyDbMd11ddkckSt30nJ6EZiTgb/view) y el [Bloque 2](https://drive.google.com/file/d/1yfkSTonph4Dq3TiSvC9zo3wWLjBaOcx9/view)
+
+# Ayudantía 10
+
+Puedes encontrar la ayudantía [acá](https://pablofdezm.github.io/files/PM_Ayudantia10.pdf)
+
+Puedes revisar la ayudatía: [Bloque 1](https://drive.google.com/file/d/1yvltnZPptkPqF7VgCpnuy_SuSbw0w3V9/view) y el [Bloque 2](https://drive.google.com/file/d/13t_aj0yz9uRRiM5Cvr7u4lB3-QPhPaAf/view)
