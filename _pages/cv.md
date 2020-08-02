@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.A. in Economics, Universidad Diego Portales, 2020
-* Finance and Investment MSc, Universidad Diego Portales, 2020-2021
+* Finance and Investment MSc, Universidad Diego Portales, 2020-2021 (Expected)
 
 Work experience
 ======
