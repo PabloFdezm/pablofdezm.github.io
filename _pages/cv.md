@@ -19,8 +19,8 @@ Work experience
 
 * August 2018 - Present: Teacher Asistant
   * Universidad Diego Portales
-  * Courses: Principles of Macroeconomics (PM, 4 times) and Finance I (F1, 3 times)
-  * Supervisor: R. Bergoeing (PM), C. Pérez (F1), B. Tavares (PM)
+  * Courses: Principles of Macroeconomics (PM, 4 times), Investments (F1, 3 times), Microeconomics (M1, 1 time) and Corporate Finance (CF, 1 time)
+  * Supervisor: R. Bergoeing (PM), C. Pérez (F1), B. Tavares (PM), A. León (M1) and G. Yañez (CF).
 
 * Summer 2020: Intern, Sell-side Equity Research Analyst
   * Scotia Corredora de Bolsa, Scotiabank Global Banking and Markets
